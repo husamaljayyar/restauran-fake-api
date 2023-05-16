@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$5uj9rG9U9Rxxgbl2OEoLqODurUavWg2/.H.fBudtsGgb2E5yTdd3u",
+      "id": 1
+    }
+  ],
+  "products": {
+    "Lunch": [
+      {
+        "id": 1,
+        "title": "Chicken shawarma meal",
+        "price": 15,
+        "image": "/assets/lunch/Chicken-shawarma-meal.jpg"
+      },
+      {
+        "id": 2,
+        "title": " Burger meal",
+        "price": 50,
+        "image": "/assets/lunch/Burger-meal.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Chicken meal with rice",
+        "price": 25,
+        "image": "/assets/lunch/Chicken-meal-with-rice.jpg"
+      },
+      {
+        "id": 4,
+        "title": " Grill meal",
+        "price": 15,
+        "image": "/assets/lunch/Grill-meal.jpg"
+      },
+      {
+        "id": 5,
+        "title": " Grilled fish meal",
+        "price": 15,
+        "image": "/assets/lunch/Grilled-fish-meal.jpg"
+      },
+      {
+        "id": 6,
+        "title": " Pizza meal",
+        "price": 15,
+        "image": "/assets/lunch/Pizza-meal.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Best KFC fried chicken",
+        "price": 35,
+        "image": "/assets/lunch/Best-KFC-fried-chicken.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Shawarma with cheese",
+        "price": 40,
+        "image": "/assets/lunch/Shawarma-with-cheese.jpg"
+      }
+    ],
+    "Beverages": [
+      {
+        "id": 1,
+        "title": "Coca Cola with sugar",
+        "price": 4,
+        "image": "/assets/beverages/CocaCola.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Lemon with mint Juice",
+        "price": 5,
+        "image": "/assets/beverages/Lemon-mint-juice.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Light sugar Mango Juice",
+        "price": 5,
+        "image": "/assets/beverages/Mango-Juice.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Strawberry juice with sugar",
+        "price": 5,
+        "image": "/assets/beverages/Strawberry-Juice.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Guava juice with sugar",
+        "price": 6,
+        "image": "/assets/beverages/Guava-Juice.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Orange juice with sugar",
+        "price": 3,
+        "image": "/assets/beverages/Orange-juice.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Peach Strawberry Lemonade",
+        "price": 15,
+        "image": "/assets/beverages/Peach-Strawberry-Lemonade.jpg"
+      },
+      {
+        "id": 8,
+        "title": "lemon with Soda",
+        "price": 5,
+        "image": "/assets/beverages/Lemon-with-Soda.jpg"
+      }
+    ]
+  },
+  "orders": []
+}

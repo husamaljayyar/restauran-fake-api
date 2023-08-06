@@ -60,7 +60,7 @@
     "Beverages": [
       {
         "id": 1,
-        "title": "Coca Cola",
+        "title": " Coca-Cola Light sugar",
         "price": 4,
         "image": "/assets/beverages/CocaCola.jpg"
       },
@@ -72,7 +72,7 @@
       },
       {
         "id": 3,
-        "title": " Mango Juice",
+        "title": "Mango Juice natural",
         "price": 5,
         "image": "/assets/beverages/Mango-Juice.jpg"
       },
@@ -84,7 +84,7 @@
       },
       {
         "id": 5,
-        "title": "Guava juice",
+        "title": "Guava juice with sugar",
         "price": 6,
         "image": "/assets/beverages/Guava-Juice.jpg"
       },
@@ -96,13 +96,13 @@
       },
       {
         "id": 7,
-        "title": "Fruit cocktail",
+        "title": "Fruit cocktail juice",
         "price": 15,
         "image": "/assets/beverages/Peach-Strawberry-Lemonade.jpg"
       },
       {
         "id": 8,
-        "title": "lemon with Soda",
+        "title": "lemon with Soda ",
         "price": 5,
         "image": "/assets/beverages/Lemon-with-Soda.jpg"
       }

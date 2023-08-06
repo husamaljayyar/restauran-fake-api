@@ -60,43 +60,43 @@
     "Beverages": [
       {
         "id": 1,
-        "title": "Coca Cola with sugar",
+        "title": "Coca Cola",
         "price": 4,
         "image": "/assets/beverages/CocaCola.jpg"
       },
       {
         "id": 2,
-        "title": "Lemon with mint Juice",
+        "title": "Lemon with mint",
         "price": 5,
         "image": "/assets/beverages/Lemon-mint-juice.jpg"
       },
       {
         "id": 3,
-        "title": "Light sugar Mango Juice",
+        "title": " Mango Juice",
         "price": 5,
         "image": "/assets/beverages/Mango-Juice.jpg"
       },
       {
         "id": 4,
-        "title": "Strawberry juice with sugar",
+        "title": "Strawberry juice",
         "price": 5,
         "image": "/assets/beverages/Strawberry-Juice.jpg"
       },
       {
         "id": 5,
-        "title": "Guava juice with sugar",
+        "title": "Guava juice",
         "price": 6,
         "image": "/assets/beverages/Guava-Juice.jpg"
       },
       {
         "id": 6,
-        "title": "Orange juice with sugar",
+        "title": "Orange juice",
         "price": 3,
         "image": "/assets/beverages/Orange-juice.jpg"
       },
       {
         "id": 7,
-        "title": "Peach Strawberry Lemonade",
+        "title": "Fruit cocktail",
         "price": 15,
         "image": "/assets/beverages/Peach-Strawberry-Lemonade.jpg"
       },

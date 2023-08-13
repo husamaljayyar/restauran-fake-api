@@ -1,11 +1,5 @@
 {
-  "users": [
-    {
-      "email": "test@test.com",
-      "password": "$2a$10$5uj9rG9U9Rxxgbl2OEoLqODurUavWg2/.H.fBudtsGgb2E5yTdd3u",
-      "id": 1
-    }
-  ],
+  "users": [],
   "products": {
     "Lunch": [
       {

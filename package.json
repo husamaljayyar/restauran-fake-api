@@ -7,10 +7,12 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "json-server": "^0.17.1",
-    "json-server-auth": "^2.1.0"
-  },
-  "dependencies": {}
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "fs": "^0.0.1-security",
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0",
+    "path": "^0.12.7"
+  }
 }
